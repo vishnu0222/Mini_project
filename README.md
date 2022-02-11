@@ -1,1 +1,1 @@
-# Mini_project
+# Mini_project (Online Loan Application)
